@@ -14,8 +14,8 @@ const hashrate3080 = BigInt('2000000000');
 
 const givers = {
     "largeGivers": [
-        { "mainAddress": "EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP", "jettonAddress": "EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP" },
-        { "mainAddress": "EQDqkSjKoZ7FzqBnLKyQQ32YdIPDA3hBJ-RsE2cB3GuBcGeh", "jettonAddress": "EQDEZJD5VIiaXwG4xgsPlWX4oaMBlnNg0c-ih_Z4wmc1UiEE" },
+        { "mainAddress": "UQAZF5RoTu8wuzR1LFaCgV91WO3_CqTaQ1iWXK9y30dI6ZGh", "jettonAddress": "EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP" },
+        { "mainAddress": "UQAZF5RoTu8wuzR1LFaCgV91WO3_CqTaQ1iWXK9y30dI6ZGh", "jettonAddress": "EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP" },
         { "mainAddress": "EQDsmgQI6ohDF_61KzEoM079onAYJYmWNMaaRyYITt2hTa5V", "jettonAddress": "EQBA9sQcXQFX4x2IkdYyZ_x5vMesa-Hj1I4PpV-cGArkxJHk" },
         { "mainAddress": "EQDankjYlhFt_bTiwLAOxIgI5UytTp7rutKtBjBlRODVPViH", "jettonAddress": "EQCh7obHGQDwD3gkjPept7jEE3TpgyIfY9crB7wI3NVXDwg1" },
         { "mainAddress": "EQCcU0hCj_axXVmrMmIVEZvp51dp3y1YPS7fRf_KcYTwUH7R", "jettonAddress": "EQBC6DM2rpft7O7gUTq0gp60d0xfVxBZi6mnoSj5xcL_xBPY" },
