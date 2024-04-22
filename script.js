@@ -138,7 +138,7 @@ async function createProgressBar(giver, name) {
 async function fillProgressBar(giver, balance, percentage, name, maxVolume, hashes) {
     const text = document.getElementById(`text-${giver.mainAddress}%`);
     const progressBarFill = document.getElementById(`progres-bar-${giver.mainAddress}%`);
-    const baseLabel = `${name}: ${balance.toLocaleString('en-US')}/${maxVolume.toLocaleString('en-US')} CHAPA<br>Mining progress: `
+    const baseLabel = `${name}: ${balance.toLocaleString('en-US')}/${maxVolume.toLocaleString('en-US')} TONC<br>Mining progress: `
     if (hashes != 0) {
         let secondsOn3080 = hashes / hashrate3080
         text.innerHTML = baseLabel + `${(100 - percentage).toFixed(2)}% Hashes: ${formatN(Number(hashes))} Seconds on 3080: ${secondsOn3080}`;
@@ -226,7 +226,7 @@ async function fillProgressBars() {
 
     sumarryBar.style.width = `${((totalRemain / total) * 100)}%`;
     summaryTextC.textContent = `Mining progress: ${(100 - (totalRemain / total) * 100).toFixed(2)}%`;
-    summaryText.textContent = `Total Givers Balance: ${totalRemain.toLocaleString('en-US')}/${total.toLocaleString('en-US')} CHAPA`;
+    summaryText.textContent = `Total Givers Balance: ${totalRemain.toLocaleString('en-US')}/${total.toLocaleString('en-US')} TONC`;
 }
 
 async function switchTheme() {
