@@ -50,7 +50,7 @@ const givers = {
         { "mainAddress": "EQAOS1ZwDtx9U69K5NpvnSHU3gRuaqjaPYuUdrFAgLcGG7K-", "jettonAddress": "EQBCdsGGHf1qMsAzuAvEdOYR8Nk5nOEyleBcsZtO-ZQPTsyb" },
     ],
     "extra_small_givers": [
-        { "mainAddress": "EQAIGrlB3pI9lNvroYy1WZ8pcUkTfw5ao4DNS00DjG-WPJGm", "jettonAddress": "EQCJx2NXBAe3XQxZ7FGIsoWAP1Mjlf39-m79stBpKi1tNiJv" },
+        { "mainAddress": "EQCfO4N7WjKmclH-wUHpG26EO3i9vS-LMvOmx8QVqnnBRhNm", "jettonAddress": "UQAZF5RoTu8wuzR1LFaCgV91WO3_CqTaQ1iWXK9y30dI6ZGh" },
         { "mainAddress": "EQB5uZs87WoAc1E1NXXOi3soxAGDF2e-BRs3mjrp-WWCCFsI", "jettonAddress": "EQBGUXgVq1u9VnQavJPBi6kNBKXmUo-yeu0TC5xAnur4YF_1" },
         { "mainAddress": "EQDy1M1ilstLeg2WoKkpWFS8TyZh7AA_YU6Auo7NDqU6t3Q4", "jettonAddress": "EQAX-Gr9gjQCMRn_9K7dDjhzPhKJ6PjeH9nNN75Dv-wKzC2_" },
         { "mainAddress": "EQAJIjc4Nzvz_WD2w8W9ErOrDJToOFJqhElAPGyfrMSeJM5r", "jettonAddress": "EQDQz865AinIET6nE4UtCQsR8rwsUpV0RZ_x-KIIoVBfTe47" },
