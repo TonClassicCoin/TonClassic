@@ -178,7 +178,7 @@ async function fillProgressBars() {
         const giver = givers.small_givers[i]
 
         await new Promise(r => setTimeout(r, 300));
-        try { var balance = await getWalletBalance(giver.jettonAddress) / 1000000000; } catch (err) { i--; continue }
+        try { var balance = await getWalletBalance(giver.EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP) / 1000000000; } catch (err) { i--; continue }
 
         const percentage = ((balance) / smallGiversMaxVolume) * 100;
 
@@ -195,7 +195,7 @@ async function fillProgressBars() {
         const giver = givers.extra_small_givers[i]
 
         await new Promise(r => setTimeout(r, 300));
-        try { var balance = await getWalletBalance(giver.jettonAddress) / 1000000000; } catch (err) { i--; continue }
+        try { var balance = await getWalletBalance(giver.EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP) / 1000000000; } catch (err) { i--; continue }
 
         const percentage = ((balance) / extraSmallGiversMaxVolume) * 100;
 
