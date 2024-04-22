@@ -14,7 +14,7 @@ const hashrate3080 = BigInt('2000000000');
 
 const givers = {
     "largeGivers": [
-        { "mainAddress": "EQC22NBqhY40-EnFyRM7NqabQAl8UDm5vlBmU9hp8UuiOY3X", "jettonAddress": "EQAxWugCqwzvE22MSKSH-S6koHHPil7icW3oSQKWkYYxqeJb" },
+        { "mainAddress": "EQCfO4N7WjKmclH-wUHpG26EO3i9vS-LMvOmx8QVqnnBRhNm", "jettonAddress": "EQAqbli980TibH4Ycgjcr8DjmfuNc2Pqt7hT3VHikYDWJ1pP" },
         { "mainAddress": "EQDqkSjKoZ7FzqBnLKyQQ32YdIPDA3hBJ-RsE2cB3GuBcGeh", "jettonAddress": "EQDEZJD5VIiaXwG4xgsPlWX4oaMBlnNg0c-ih_Z4wmc1UiEE" },
         { "mainAddress": "EQDsmgQI6ohDF_61KzEoM079onAYJYmWNMaaRyYITt2hTa5V", "jettonAddress": "EQBA9sQcXQFX4x2IkdYyZ_x5vMesa-Hj1I4PpV-cGArkxJHk" },
         { "mainAddress": "EQDankjYlhFt_bTiwLAOxIgI5UytTp7rutKtBjBlRODVPViH", "jettonAddress": "EQCh7obHGQDwD3gkjPept7jEE3TpgyIfY9crB7wI3NVXDwg1" },
